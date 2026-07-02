@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "a67a2aeaa14dffcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b420edae65afcca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e24358b0b9a8567",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "02c2b9fecc5727c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
+            "id": "044e90485667db0d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
+            "id": "565ab344b92dc49c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
+            "id": "c0e6a25838afdc57",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1d5f635b049f4e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c4a869643dea2c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6ae0ed20a37a1cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2d2063ccf217d962",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "623701a70c2ef614",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b3b0142c6252f29",
+    "type": "split",
+    "children": [
+      {
+        "id": "61e98ffbcde8c310",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afbc0adb4915d8d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2aeccc8659716317",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bae83d10fce72745",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17ca83c865814930",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c0e6a25838afdc57",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled.canvas",
+    "Pasted image 20251119191505.png",
+    "מולים על פחמים.md",
+    "דג אבל.md",
+    "מטבל טמפורה.md",
+    "לחמניות.md",
+    "לזניה.md",
+    "כנפיים עוף (גלית).md",
+    "טליאטלה טאלייאלה ברוטב גורגונזולה.md",
+    "כופתאות בצורת נקניק.md",
+    "וון טון (ניטיה).md",
+    "איך מכינים פסטה.md",
+    "סופגניות (אמא של אמיר).md",
+    "רוטב לסלט.md",
+    "חמין (דליה אמא של רן (סבתא של יניב)).md",
+    "קניידלך.md",
+    "רכיבים/שמן.md",
+    "Untitled 1.md",
+    "פיצה.md",
+    "פרג למילוי עוגה.md",
+    "מתכונים.md",
+    "עוגת קינמון (אורנה שסטוביץ).md",
+    "רכיבים/עגבניות.md",
+    "פנקייק (גבי).md",
+    "קבבים של בקר לילדים.md",
+    "קבבים של שומן כבש + בקר (דלמ).md",
+    "רוטב בשמל.md",
+    "רכיבים/גבינות",
+    "רכיבים",
+    "4953e77e2932615c910f310c96ea5a31.jpg",
+    "דידיד"
+  ]
+}
