@@ -4,69 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5b420edae65afcca",
+        "id": "427c07b15c569698",
         "type": "tabs",
         "children": [
           {
-            "id": "6e24358b0b9a8567",
+            "id": "4522136258ef35c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "עוגת שיש מיץ (בילי רייך).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "עוגת שיש מיץ (בילי רייך)"
             }
           },
           {
-            "id": "02c2b9fecc5727c3",
+            "id": "9aaac818940452d7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "עוגיות שוקולד צי'פ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-          },
-          {
-            "id": "044e90485667db0d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
-            "id": "565ab344b92dc49c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
-          },
-          {
-            "id": "c0e6a25838afdc57",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "עוגיות שוקולד צי'פ"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,36 +181,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "c0e6a25838afdc57",
+  "active": "9aaac818940452d7",
   "lastOpenFiles": [
-    "Untitled.md",
+    "עוגת שיש מיץ (בילי רייך).md",
+    "עוגיות שוקולד צי'פ.md",
+    "Pasted image 20260721211029.png",
+    "קציצות ברסק עגבניות.md",
+    "שניצלים אמא.md",
+    "פלפלים ממולאים.md",
+    "תפוחי אדמה ונקניקיות.md",
+    "עוף ברסק עגבניות.md",
+    "עוף רומני.md",
+    "עוף ביין.md",
+    "לשון.md",
+    "מרק עגבניות של סבתא מיה.md",
+    "מוס שוקולד.md",
+    "עוגת אל – עריש.md",
+    "פנקייק.md",
+    "מתכונים.md",
+    "בראוניז.md",
+    "Untitled 1.md",
+    "מצה בריי.md",
+    "מטבל טמפורה.md",
+    "מצה.md",
+    "עוגת תפוחים (טובה דקה כזו).md",
+    "עוגת תפוחים (טובה דקה כזו) 2.md",
+    "עוגת קינמון (אורנה שסטוביץ).md",
+    "חצילים מטוגנים.md",
+    "שניצלים סבתא.md",
+    "צלי סיני אדום.md",
+    "מתכונים (1).doc",
+    "מתכונים.doc",
     "Untitled.canvas",
     "Pasted image 20251119191505.png",
-    "מולים על פחמים.md",
-    "דג אבל.md",
-    "מטבל טמפורה.md",
-    "לחמניות.md",
-    "לזניה.md",
-    "כנפיים עוף (גלית).md",
-    "טליאטלה טאלייאלה ברוטב גורגונזולה.md",
-    "כופתאות בצורת נקניק.md",
-    "וון טון (ניטיה).md",
-    "איך מכינים פסטה.md",
-    "סופגניות (אמא של אמיר).md",
-    "רוטב לסלט.md",
-    "חמין (דליה אמא של רן (סבתא של יניב)).md",
-    "קניידלך.md",
-    "רכיבים/שמן.md",
-    "Untitled 1.md",
-    "פיצה.md",
-    "פרג למילוי עוגה.md",
-    "מתכונים.md",
-    "עוגת קינמון (אורנה שסטוביץ).md",
-    "רכיבים/עגבניות.md",
-    "פנקייק (גבי).md",
-    "קבבים של בקר לילדים.md",
-    "קבבים של שומן כבש + בקר (דלמ).md",
-    "רוטב בשמל.md",
     "רכיבים/גבינות",
     "רכיבים",
     "4953e77e2932615c910f310c96ea5a31.jpg",
